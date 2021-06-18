@@ -1,16 +1,16 @@
 # Introduction
 
-Bitcoin Cash is an ideal blockchain with incredible throughput capacity, ability to scale, low transaction fees, 0-confirmation and soon an EVM compatible side chain and much more. It’s a gem waiting to be discovered by the many.
+Bitcoin Cash is an ideal blockchain with incredible throughput capacity, ability to scale, low transaction fees, 0-confirmation, and soon an EVM compatible side chain and much more. It’s a gem waiting to be discovered by the many.
 
-There is a huge demand for Software Engineers and Developers who work on the Bitcoin Cash Ecosystem. **Cash Kit helps to solve this problem**. This open source project aims to be the goto place for any new developer\(s\) interested in working on Bitcoin Cash blockchain by making the onboarding of new teams and developers very easy. This kit provides extensive documentation and codebase, so developers can focus on their business logic and ship a production grade application within a couple of days instead of weeks or months.
+There is a huge demand for Software Engineers and Developers who work on the Bitcoin Cash Ecosystem. This open-source organization consists of many small and medium-sized projects which use but are not limited to various node implementations\(BCHD\), libraries, languages\(Javascript, Go, Cashscript, and Python\), and cutting-edge technologies like gRPC and Docker. I hope that this organization will act as the go-to place for the new developer\(s\) to experiment and build something that can help grow the ecosystem.
 
-##  All Repos
+{% page-ref page="cashweb.md" %}
 
-* [docs](https://github.com/cashkit/docs)
-* [cashweb](https://github.com/cashkit/cashweb)
-* [pokemon-nft-demo](https://github.com/cashkit/pokemon-nft-demo)
-* [protos](https://github.com/cashkit/protos)
-* \[cashserver\] soon
+{% page-ref page="pokemon-nft-demo.md" %}
+
+{% page-ref page="protos-2.md" %}
+
+{% page-ref page="configs/bchdnode.md" %}
 
 ###  Donations
 
@@ -18,11 +18,11 @@ There is a huge demand for Software Engineers and Developers who work on the Bit
 
 ![qrcode](https://user-images.githubusercontent.com/7335120/119320178-ec461980-bc98-11eb-9b05-a6f44d408034.png)
 
-###  Contribution
+### Contribution
 
-Contributing guildelines are under progress.
+Feel free to open an issue on [here](https://github.com/cashkit/docs/issues) and let's discuss. 
 
-###  License
+### License
 
 MIT
 

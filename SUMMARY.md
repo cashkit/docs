@@ -1,14 +1,13 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Cashweb](cashweb.md)
+* [Explorer](cashweb.md)
 * [Pokemon NFT Demo](pokemon-nft-demo.md)
-* [Protos](protos.md)
-* [Cashserver](cashserver.md)
-* [Node Configs](bchdnode.md)
+* [Protos](protos-2.md)
+* [CODE\_OF\_CONDUCT](code_of_conduct.md)
+* [CONTRIBUTING](contributing.md)
 
-## Others
+## Configs
 
-* [CONTRIBUTING](others/contributing.md)
-* [CODE\_OF\_CONDUCT](others/code_of_conduct.md)
+* [Node Configs](configs/bchdnode.md)
 

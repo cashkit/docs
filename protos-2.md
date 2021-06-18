@@ -1,6 +1,12 @@
+---
+description: All Protos used by Cashkit. ⚙️
+---
+
 # Protos
 
-[https://github.com/cashkit/protos](https://github.com/cashkit/protos) repo contains all proto files and generated code required by the `cashkit` org.
+[This](https://github.com/cashkit/protos) repo contains all proto files and generated code used by the `cashkit` org.
+
+[https://github.com/cashkit/protos/tree/main/bchrpc](https://github.com/cashkit/protos/tree/main/bchrpc)
 
 ```text
 #!/bin/bash
