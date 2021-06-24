@@ -4,11 +4,11 @@ Bitcoin Cash is an ideal blockchain with incredible throughput capacity, ability
 
 There is a huge demand for Software Engineers and Developers who work on the Bitcoin Cash Ecosystem. This open-source organization consists of many small and medium-sized projects which use but are not limited to various node implementations\(BCHD\), libraries, languages\(Javascript, Go, Cashscript, and Python\), and cutting-edge technologies like gRPC and Docker. I hope that this organization will act as the go-to place for the new developer\(s\) to experiment and build something that can help grow the ecosystem.
 
-{% page-ref page="cashweb.md" %}
+{% page-ref page="explorer.md" %}
 
-{% page-ref page="pokemon-nft-demo.md" %}
+{% page-ref page="cashscript-slp.md" %}
 
-{% page-ref page="protos-2.md" %}
+{% page-ref page="protos.md" %}
 
 {% page-ref page="configs/bchdnode.md" %}
 
